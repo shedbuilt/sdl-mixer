@@ -1,6 +1,6 @@
 NAME=sdl-mixer
 VERSION=1.2.12
-REVISION=2
+REVISION=1
 SRC=https://www.libsdl.org/projects/SDL_mixer/release/SDL_mixer-1.2.12.tar.gz
 SRCMD5=e03ff73d77a55e3572ad0217131dc4a1
 BUILDDEPS=sdl
